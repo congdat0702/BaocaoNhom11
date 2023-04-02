@@ -1,0 +1,22 @@
+#Cài Đặt:
++ File sql:
+Tạo database tên "medisure".
+Import file "medisure.sql" vào MySQL.
+
++File medisure_as:
+Import dự án vào các công cụ IDE.
+Sử dụng JAVA JDK 17
+Thay đổi đường dẫn đến csdl: resource/application
+Chạy code.
+
++File "medisure_fontend":
+Giải nén và đưa vào file htdoc trong xampp 
+Mở dự án trên VScode.
+chạy với đường dẫn.
+http://localhost/java/medisure_frontend/
+
+
+**** Tài Khoản Test ****
+Admin:      admin		admin
+người dùng: ngan		123
+		trongnhan	123
